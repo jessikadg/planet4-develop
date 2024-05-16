@@ -7,3 +7,5 @@ node_modules/*
 junit.xml
 hosts.backup
 hosts.windows.backup
+
+!planet4/plugins/planet4-plugin-gutenberg-blocks/assets/src/styles/blocks/PageHeader.scss
